@@ -86,40 +86,36 @@ NPM: 2306244961
 <details>
 <summary><b>Profiling and Performance Optimization</b></summary>
 
-#### 1. /all-student Endpoint
+### 1. /all-student Endpoint 
 
-**Before Optimization:**
-CPU Time: 805ms \
-**After Optimization:**
+#### **Before Optimization:** 
+CPU Time: 805ms 
+#### **After Optimization:**
 CPU Time: 98ms \
 **87.84% of improvement**
----
 
-#### 2. /all-student-name Endpoint
+### 2. /all-student-name Endpoint 
 
-**Before Optimization:** \
+#### **Before Optimization:**
 Average Time: 64 ms \
 Min Time: 52 ms \
-Max Time: 125 ms\
-**After Optimization:** \
+Max Time: 125 ms
+#### **After Optimization:**
 Average Time: 25 ms \
 Min Time: 8 ms \
-Max Time: 143 ms \
+Max Time: 143 ms 
 **60.94% of improvement on average time**
 
----
-
-#### **3. /highest-gpa Endpoint**
-**Before Optimization:** \
+### **3. /highest-gpa Endpoint** 
+#### **Before Optimization:**
 Average Time: 26 ms \
 Min Time: 24 ms \
-Max Time: 39 ms\
-**After Optimization:** \
+Max Time: 39 ms
+#### **After Optimization:**
 Average Time: 5 ms \
 Min Time: 5 ms \
 Max Time: 7 ms \
 **80.77% of improvement on average time**
----
 </details>
 
 <details>
